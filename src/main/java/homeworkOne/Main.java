@@ -1,3 +1,5 @@
+package homeworkOne;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -7,10 +9,10 @@ public class Main {
             return;
         }
         switch (args[0]){
-            case "Cat":
+            case "homeworkOne.Cat":
                 command = new Cat();
                 break;
-            case "Grep":
+            case "homeworkOne.Grep":
                 command = new Grep();
                 break;
             default:

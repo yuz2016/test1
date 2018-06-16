@@ -1,3 +1,5 @@
+package homeworkOne;
+
 import java.io.File;
 import java.io.FileFilter;
 import java.io.FileInputStream;
@@ -22,7 +24,7 @@ public class Cat implements Command {
 
     public static void main(String[] args) {
         if (args.length < 1) {
-            System.err.println("Usage : java Cat pattern file...");
+            System.err.println("Usage : java homeworkOne.Cat pattern file...");
             return;
         }
         for (int i = 1; i < args.length; i++) {
@@ -68,7 +70,7 @@ public class Cat implements Command {
 
     public void process(String[] args) {
         if (args.length < 1) {
-            System.err.println("Usage : java Cat ... file...");
+            System.err.println("Usage : java homeworkOne.Cat ... file...");
             return;
         }
         File dir = new File(args[1]);

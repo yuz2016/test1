@@ -1,4 +1,7 @@
+package homeworkTwo;
+
 import com.google.common.collect.Lists;
+import homeworkOne.SaveProcessResult;
 
 import java.io.*;
 import java.net.URI;

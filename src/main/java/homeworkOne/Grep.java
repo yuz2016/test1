@@ -1,3 +1,5 @@
+package homeworkOne;
+
 import java.io.File;
 import java.io.FileFilter;
 import java.io.FileInputStream;
@@ -23,7 +25,7 @@ public class Grep implements Command{
 
     public static void main(String[] args) {
         if (args.length < 2) {
-            System.err.println("Usage : java Grep pattern file...");
+            System.err.println("Usage : java homeworkOne.Grep pattern file...");
             return;
         }
         compile(args[0]);
@@ -84,7 +86,7 @@ public class Grep implements Command{
 
     public void process(String[] args) {
         if (args.length < 2) {
-            System.err.println("Usage : java Grep pattern file...");
+            System.err.println("Usage : java homeworkOne.Grep pattern file...");
             return;
         }
         compile(args[1]);
