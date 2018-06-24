@@ -52,6 +52,27 @@ public class SaveProcessResult {
         bw.flush();
         bw.close();
         fw.close();
-
     }
+
+    public static void saveByPath(File file1,String s) throws IOException {
+        if(file1.getParentFile() == null){
+            System.out.println("输入绝对路径");
+            return;
+        }
+        if (!file1.exists()) {
+            file1.getParentFile().mkdirs();
+        }
+
+        file1.createNewFile();
+
+        // write
+        FileWriter fw = new FileWriter(file1, true);
+        BufferedWriter bw = new BufferedWriter(fw);
+        bw.write(s);
+        bw.flush();
+        bw.close();
+        fw.close();
+    }
+
+
 }

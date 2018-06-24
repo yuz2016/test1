@@ -2,15 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669254b0-81e7-4f7f-b89d-8bb8f4be9b15" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkThree/GeneratedAfterInstead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkThree/ReadClasspathFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworkThree/StaticsCodeingLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GetAllFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Grep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HttpConfigUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaveProcessResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/3/3(1).rs" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/3/3(1).rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/directory/3/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/directory/3/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/输入列表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/输入列表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test1/黑名单列表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test1/黑名单列表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestReentrantLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FilterBySuffix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GetAllFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Grep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HttpConfigUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SaveProcessResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/1.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/2.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/3/3.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/directory/3/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,99 +59,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="test1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpConfigUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaveProcessResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestReentrantLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TestReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Grep.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetAllFiles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -146,6 +110,11 @@
         <option value="$PROJECT_DIR$/src/main/java/HttpConfigUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/homeworkOne/HttpConfigUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homeworkThree/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homeworkThree/ReadClasspathFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homeworkThree/StaticsCodeingLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/homeworkThree/GeneratedAfterInstead.java" />
       </list>
     </option>
   </component>
@@ -187,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,20 +186,31 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/classes" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/homeworkThree" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,38 +224,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HttpConfigUtil">
+  <component name="RunManager" selected="Application.GeneratedAfterInstead">
+    <configuration name="GeneratedAfterInstead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkThree.GeneratedAfterInstead" />
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="GetAllFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworkOne.GetAllFiles" />
-      <module name="test1" />
-    </configuration>
-    <configuration name="Grep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkOne.Grep" />
       <module name="test1" />
     </configuration>
     <configuration name="HttpConfigUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworkTwo.HttpConfigUtil" />
       <module name="test1" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="homeworkOne.Main" />
+    <configuration name="ReadClasspathFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkThree.ReadClasspathFile" />
       <module name="test1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StaticsCodeingLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkThree.StaticsCodeingLine" />
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Grep" />
       <item itemvalue="Application.GetAllFiles" />
       <item itemvalue="Application.HttpConfigUtil" />
+      <item itemvalue="Application.ReadClasspathFile" />
+      <item itemvalue="Application.StaticsCodeingLine" />
+      <item itemvalue="Application.GeneratedAfterInstead" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeneratedAfterInstead" />
+        <item itemvalue="Application.ReadClasspathFile" />
+        <item itemvalue="Application.StaticsCodeingLine" />
         <item itemvalue="Application.HttpConfigUtil" />
         <item itemvalue="Application.GetAllFiles" />
-        <item itemvalue="Application.Grep" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -305,45 +307,60 @@
       <workItem from="1529028318491" duration="202000" />
       <workItem from="1529028568363" duration="691000" />
       <workItem from="1529033518594" duration="816000" />
-      <workItem from="1529152226295" duration="3307000" />
+      <workItem from="1529152226295" duration="3698000" />
+      <workItem from="1529557601817" duration="913000" />
+      <workItem from="1529558540048" duration="637000" />
+      <workItem from="1529559686114" duration="700000" />
+      <workItem from="1529560417073" duration="31000" />
+      <workItem from="1529566554459" duration="138000" />
+      <workItem from="1529566740807" duration="15000" />
+      <workItem from="1529800534190" duration="14879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30040000" />
+    <option name="totallyTimeSpent" value="47744000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.276178" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3298611" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31544504" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23857144" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.27142859" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75714284" visible="true" weight="0.2081545" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info x="9" y="20" width="1582" height="820" id="Structure" order="6" sideWeight="0.24285714" side_tool="true" visible="true" weight="0.2081545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74108815" visible="true" weight="0.23104435" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+      <window_info x="9" y="20" width="1582" height="820" id="Structure" order="6" sideWeight="0.25891182" side_tool="true" visible="true" weight="0.23104435" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="4" sideWeight="0.5109489" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.15183246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35142857" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.276178" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,67 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/FileInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1909">
-          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/CharSequence.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/File.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/FileSystem.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/FileInputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -524,14 +480,14 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Override.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="255">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="68">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -541,50 +497,156 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Command.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/GetAllFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="850">
           <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Grep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state>
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state>
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkThree/StringUtils.java" />
+    <entry file="file://$PROJECT_DIR$/test1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="156">
+          <caret line="275" lean-forward="true" selection-start-line="275" selection-end-line="275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkThree/instead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="227" column="55" lean-forward="true" selection-start-line="227" selection-start-column="55" selection-end-line="227" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="1732" column="15" selection-start-line="1732" selection-start-column="15" selection-end-line="1732" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="379" column="25" lean-forward="true" selection-start-line="379" selection-start-column="25" selection-end-line="379" selection-end-column="25" />
+          <folding>
+            <element signature="e#10229#10230#0" expanded="true" />
+            <element signature="e#10270#10271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="928" column="18" selection-start-line="928" selection-start-column="18" selection-end-line="928" selection-end-column="18" />
+          <folding>
+            <element signature="e#34503#34504#0" expanded="true" />
+            <element signature="e#34547#34548#0" expanded="true" />
+            <element signature="e#52537#52538#0" expanded="true" />
+            <element signature="e#52575#52576#0" expanded="true" />
+            <element signature="e#53351#53352#0" expanded="true" />
+            <element signature="e#53421#53422#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/homeworkTwo/HttpConfigUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkThree/StaticsCodeingLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkOne/SaveProcessResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="59" selection-start-line="59" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkThree/GeneratedAfterInstead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="86" column="66" selection-start-line="86" selection-start-column="66" selection-end-line="86" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/sdxl.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3762">
+          <caret line="198" column="19" selection-start-line="198" selection-start-column="19" selection-end-line="198" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/homeworkThree/ReadClasspathFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
